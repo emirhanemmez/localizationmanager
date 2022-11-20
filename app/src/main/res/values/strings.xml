@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LocalizationManagerSample</string>
+    <string name="normal_string">Normal String</string>
+    <string name="bold_string">**Bold string**</string>
+    <string name="generic_string">{number}</string>
+    <string name="generic_string_with_multiple_parameter">{number} **{name}**</string>
+    <string name="string_with_generic_id">String with generic id</string>
+    <string name="linked_string">Some clickable string: [number](number) [name](name)</string>
+</resources>
