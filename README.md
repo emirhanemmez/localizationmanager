@@ -25,6 +25,11 @@ Add the code below to your app's gradle file.
 implementation 'com.github.emirhanemmez:localizationmanager:$latest_version'
 ```
 
+## Initialization
+```
+val localizationManager = LocalizationManager(context)
+```
+
 ## Usage
 
 Getting string
